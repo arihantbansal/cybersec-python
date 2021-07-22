@@ -19,6 +19,13 @@ import requests
 # print(r.text)
 # print(r.url)
 
-r = requests.post("https://httpbin.org/post", data={"username": "ariban900", "password": "123456"})
+# r = requests.post("https://httpbin.org/post", data={"username": "ariban900", "password": "123456"})
+
+# # print(r.text)
+
+# r_dict = r.json()
+# print(r_dict)
+
+r = requests.get("https://httpbin.org/basic-auth/ariban900/123456", auth=("ariban900", "123456"))
 
 print(r.text)
