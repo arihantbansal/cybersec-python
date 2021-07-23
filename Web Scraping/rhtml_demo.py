@@ -30,18 +30,21 @@ r = session.get("https://coreyms.com/")
 
 # print(r.html)
 
-article = r.html.find("article", first=True)
-# print(article.html)
+articles = r.html.find("article")
 
-# headline = article.find(".entry-title-link", first=True).text
-# print(headline)
+for article in articles:	
+	headline = article.find(".entry-title-link", first=True).text
+	print(headline)
 
-# summary = article.find(".entry-content p", first=True).text
-# print(summary)
+	summary = article.find(".entry-content p", first=True).text
+	print(summary)
 
-vid_src = article.find("iframe", first=True).attrs["src"]
-vid_id = vid_src.split("/")[4].split("?")[0]
-# print(vid_id)
-
-yt_link = f'https://youtube.com/watch?v={vid_id}'
-print(yt_link)
+	try:
+		vid_src = article.find("iframe", first=True).attrs["src"]
+		vid_id = vid_src.split("/")[4].split("?")[0]
+		yt_link = f'https://youtube.com/watch?v={vid_id}'
+	except Exception as e:
+		yt_link = None	
+	
+	print(yt_link)
+	print()
