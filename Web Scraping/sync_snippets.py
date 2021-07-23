@@ -1,5 +1,4 @@
 import time
-from requests.sessions import session
 from requests_html import HTMLSession
 
 session = HTMLSession()
