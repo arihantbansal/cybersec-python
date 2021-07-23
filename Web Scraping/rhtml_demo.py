@@ -1,4 +1,5 @@
 from requests_html import HTML, HTMLSession
+import csv
 
 # with open("simple.html") as html_file:
 # 	source = html_file.read()
@@ -25,6 +26,10 @@ from requests_html import HTML, HTMLSession
 # 	summary = article.find("p", first=True)
 # 	print(headline.text + "\n" + summary.text + "\n")
 
+csv_file = open("cms_scrape.csv", "w")
+csv_writer = csv.writer(csv_file)
+csv_writer.writerow(["headline", "summary", "video"])
+
 session = HTMLSession()
 r = session.get("https://coreyms.com/")
 
@@ -48,3 +53,7 @@ for article in articles:
 	
 	print(yt_link)
 	print()
+
+	csv_writer.writerow([headline, summary, yt_link])
+
+csv_file.close()
