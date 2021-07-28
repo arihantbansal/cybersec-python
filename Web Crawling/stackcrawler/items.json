@@ -1,0 +1,199 @@
+[
+	{
+		"title": "Sort kube pods by memory/cpu per node",
+		"url": "/questions/68560561/sort-kube-pods-by-memory-cpu-per-node"
+	},
+	{
+		"title": "Can you use decrement/increment operator but skip 0 in JavaScript just like how continue works?",
+		"url": "/questions/68560560/can-you-use-decrement-increment-operator-but-skip-0-in-javascript-just-like-how"
+	},
+	{
+		"title": "Need group jobs in lumen framework",
+		"url": "/questions/68560557/need-group-jobs-in-lumen-framework"
+	},
+	{
+		"title": "No internal docker IP address when I run mongdb image",
+		"url": "/questions/68560556/no-internal-docker-ip-address-when-i-run-mongdb-image"
+	},
+	{
+		"title": "My PHP MySQL statement does not stop running",
+		"url": "/questions/68560555/my-php-mysql-statement-does-not-stop-running"
+	},
+	{
+		"title": "A script managed by poetry seems to be using the \u201cwrong version\u201d",
+		"url": "/questions/68560554/a-script-managed-by-poetry-seems-to-be-using-the-wrong-version"
+	},
+	{
+		"title": "How to avoid blocking call within Spring Webflux MessageSource load bundle",
+		"url": "/questions/68560553/how-to-avoid-blocking-call-within-spring-webflux-messagesource-load-bundle"
+	},
+	{
+		"title": "KG link prediction models",
+		"url": "/questions/68560548/kg-link-prediction-models"
+	},
+	{
+		"title": "SSRS summing rows with the same value",
+		"url": "/questions/68560547/ssrs-summing-rows-with-the-same-value"
+	},
+	{
+		"title": "Umlauts in the bibliography file of LaTeX",
+		"url": "/questions/68560546/umlauts-in-the-bibliography-file-of-latex"
+	},
+	{
+		"title": "Angular v12 PrimeNg MessageService is not showing popup message",
+		"url": "/questions/68560545/angular-v12-primeng-messageservice-is-not-showing-popup-message"
+	},
+	{
+		"title": "How to silence a program's output in command line without sudo access",
+		"url": "/questions/68560541/how-to-silence-a-programs-output-in-command-line-without-sudo-access"
+	},
+	{
+		"title": "NextJS - should I retrieve all necessary data and do authentication in getServerSideProps?",
+		"url": "/questions/68560539/nextjs-should-i-retrieve-all-necessary-data-and-do-authentication-in-getserver"
+	},
+	{
+		"title": "i have set up an django server and i need to communicate with my iot device. how can it be done?",
+		"url": "/questions/68560535/i-have-set-up-an-django-server-and-i-need-to-communicate-with-my-iot-device-how"
+	},
+	{
+		"title": "I have multiple pages dynamic vue js site created in 2.6.12 version with vuex, vue router and axios and now want to convert it in SSR App",
+		"url": "/questions/68560534/i-have-multiple-pages-dynamic-vue-js-site-created-in-2-6-12-version-with-vuex-v"
+	},
+	{
+		"title": "An object reference is required for the non-static field, method or property 'Form1.Button' in class",
+		"url": "/questions/68560533/an-object-reference-is-required-for-the-non-static-field-method-or-property-fo"
+	},
+	{
+		"title": "change value of a database cell in flask",
+		"url": "/questions/68560532/change-value-of-a-database-cell-in-flask"
+	},
+	{
+		"title": "Not Update The Home Page With Next.js & Json & Axios",
+		"url": "/questions/68560530/not-update-the-home-page-with-next-js-json-axios"
+	},
+	{
+		"title": "access data of observable collection to another observable collection",
+		"url": "/questions/68560529/access-data-of-observable-collection-to-another-observable-collection"
+	},
+	{
+		"title": "ERROR - DataEndpointConnectionWorker Error while trying to connect to the endpoint. Cannot borrow client for ssl://localhost:7712",
+		"url": "/questions/68560528/error-dataendpointconnectionworker-error-while-trying-to-connect-to-the-endpoi"
+	},
+	{
+		"title": "Regex exclude underscores",
+		"url": "/questions/68560527/regex-exclude-underscores"
+	},
+	{
+		"title": "pyspark, saving options documentation",
+		"url": "/questions/68560526/pyspark-saving-options-documentation"
+	},
+	{
+		"title": "HTML emmet tag configuration",
+		"url": "/questions/68560525/html-emmet-tag-configuration"
+	},
+	{
+		"title": "Calling differente call execute on if condition - SAS",
+		"url": "/questions/68560524/calling-differente-call-execute-on-if-condition-sas"
+	},
+	{
+		"title": "I am using this datepicker plugin https://github.com/fengyuanchen/datepicker . I want to specify/highlight some dates. How can I do this?",
+		"url": "/questions/68560523/i-am-using-this-datepicker-plugin-https-github-com-fengyuanchen-datepicker-i"
+	},
+	{
+		"title": "How To Create Dynamic Header Menu In WordPress?",
+		"url": "/questions/68560519/how-to-create-dynamic-header-menu-in-wordpress"
+	},
+	{
+		"title": "Creating a MaterialButton programatically, theme error",
+		"url": "/questions/68560518/creating-a-materialbutton-programatically-theme-error"
+	},
+	{
+		"title": "What is the relationship between a Node, Worker, Executor, Task and Partition",
+		"url": "/questions/68560515/what-is-the-relationship-between-a-node-worker-executor-task-and-partition"
+	},
+	{
+		"title": "Reuse legacy .net 4.7.2 libs with EF 6.4 + Oracle.ManagedDataAccess.EntityFramerowk with a .net core 3.1 app?",
+		"url": "/questions/68560514/reuse-legacy-net-4-7-2-libs-with-ef-6-4-oracle-manageddataaccess-entityframer"
+	},
+	{
+		"title": "Improve Hasura Subscription Performance",
+		"url": "/questions/68560513/improve-hasura-subscription-performance"
+	},
+	{
+		"title": "Remove windows machine from domain via PS",
+		"url": "/questions/68560509/remove-windows-machine-from-domain-via-ps"
+	},
+	{
+		"title": "Processing a file and targeting specific lines",
+		"url": "/questions/68560508/processing-a-file-and-targeting-specific-lines"
+	},
+	{
+		"title": "Rails radio_buttons multiple selection for same attribute, is it possible?",
+		"url": "/questions/68560507/rails-radio-buttons-multiple-selection-for-same-attribute-is-it-possible"
+	},
+	{
+		"title": "R markdown issue says data frame execution halted",
+		"url": "/questions/68560506/r-markdown-issue-says-data-frame-execution-halted"
+	},
+	{
+		"title": "Stuck at Download okhttp-4.9.pom",
+		"url": "/questions/68560505/stuck-at-download-okhttp-4-9-pom"
+	},
+	{
+		"title": "An attempt at understanding what ECMAScript-6 Function.prototype.bind() actually does",
+		"url": "/questions/68560498/an-attempt-at-understanding-what-ecmascript-6-function-prototype-bind-actually"
+	},
+	{
+		"title": "Python can't find installed module, but pip can",
+		"url": "/questions/68560496/python-cant-find-installed-module-but-pip-can"
+	},
+	{
+		"title": "can not open XML file with a bigger size on eclipse IDE",
+		"url": "/questions/68560495/can-not-open-xml-file-with-a-bigger-size-on-eclipse-ide"
+	},
+	{
+		"title": "How to use dask BlockTransformer with custom function?",
+		"url": "/questions/68560492/how-to-use-dask-blocktransformer-with-custom-function"
+	},
+	{
+		"title": "How to initialise a map of maps",
+		"url": "/questions/68560491/how-to-initialise-a-map-of-maps"
+	},
+	{
+		"title": "Matching normal text font with font in math mode in Matplotlib",
+		"url": "/questions/68560490/matching-normal-text-font-with-font-in-math-mode-in-matplotlib"
+	},
+	{
+		"title": "How I count ul li inside word. and if li inside word is 0 then do not show back ground image",
+		"url": "/questions/68560489/how-i-count-ul-li-inside-word-and-if-li-inside-word-is-0-then-do-not-show-back"
+	},
+	{
+		"title": "Postman OAuth1.0a Signature Different",
+		"url": "/questions/68560486/postman-oauth1-0a-signature-different"
+	},
+	{
+		"title": "How can I disable spellcheck in CKEditor?",
+		"url": "/questions/68560485/how-can-i-disable-spellcheck-in-ckeditor"
+	},
+	{
+		"title": "\u201cPredicate NodeAffinity failed\u201d",
+		"url": "/questions/68560484/predicate-nodeaffinity-failed"
+	},
+	{
+		"title": "Add \u201crel\u201d-attribute to img tag in TinyMCE 5 editor",
+		"url": "/questions/68560480/add-rel-attribute-to-img-tag-in-tinymce-5-editor"
+	},
+	{
+		"title": "How to convert current timestamp in timeago in codeigneiter",
+		"url": "/questions/68560479/how-to-convert-current-timestamp-in-timeago-in-codeigneiter"
+	},
+	{
+		"title": "Angular - Get Boolean Value from a Observable Service inside the CanActivate",
+		"url": "/questions/68560472/angular-get-boolean-value-from-a-observable-service-inside-the-canactivate"
+	},
+	{
+		"title": "I want to send a message to a specific channel when my discord.py bot enables",
+		"url": "/questions/68560471/i-want-to-send-a-message-to-a-specific-channel-when-my-discord-py-bot-enables"
+	},
+	{ "title": "Add OR in WHERE", "url": "/questions/68560470/add-or-in-where" }
+]
