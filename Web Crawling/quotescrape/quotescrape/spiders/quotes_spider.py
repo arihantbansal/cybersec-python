@@ -1,20 +1,21 @@
 import scrapy
 
+
 class QuotesSpider(scrapy.Spider):
-	name  = "quotes"
+  name = "quotes"
 
-	def start_requests(self):
-		start_urls = {
-			'http://quotes.toscrape.com/page/1/',
-			'http://quotes.toscrape.com/page/2/',
-		}
+  def start_requests(self):
+    start_urls = {
+        'http://quotes.toscrape.com/page/1/',
+        'http://quotes.toscrape.com/page/2/',
+    }
 
-		for url in start_urls:
-			yield scrapy.Request(url=url, callback=self.parse)
+    for url in start_urls:
+      yield scrapy.Request(url=url, callback=self.parse)
 
-	def parse(self, response):
-		page = response.url.split("/")[-2]
-		filename = f"quotes-{page}.html"
-		with open(filename, 'wb') as f:
-			f.write(response.body)
-		self.log(f'Saved file {filename}')
+  def parse(self, response):
+    page = response.url.split("/")[-2]
+    filename = f"quotes-{page}.html"
+    with open(filename, 'wb') as f:
+      f.write(response.body)
+    self.log(f'Saved file {filename}')
