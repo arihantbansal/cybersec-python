@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class PostscrapePipeline:
+class QuotescrapePipeline:
     def process_item(self, item, spider):
         return item
