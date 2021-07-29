@@ -1,199 +1,202 @@
 [
 	{
-		"title": "Sort kube pods by memory/cpu per node",
-		"url": "/questions/68560561/sort-kube-pods-by-memory-cpu-per-node"
+		"title": "How can I add Header value through URL?",
+		"url": "/questions/68564688/how-can-i-add-header-value-through-url"
 	},
 	{
-		"title": "Can you use decrement/increment operator but skip 0 in JavaScript just like how continue works?",
-		"url": "/questions/68560560/can-you-use-decrement-increment-operator-but-skip-0-in-javascript-just-like-how"
+		"title": "how can i get next value of json data",
+		"url": "/questions/68564687/how-can-i-get-next-value-of-json-data"
 	},
 	{
-		"title": "Need group jobs in lumen framework",
-		"url": "/questions/68560557/need-group-jobs-in-lumen-framework"
+		"title": "How to show checkbox checked in data-id attribute",
+		"url": "/questions/68564685/how-to-show-checkbox-checked-in-data-id-attribute"
 	},
 	{
-		"title": "No internal docker IP address when I run mongdb image",
-		"url": "/questions/68560556/no-internal-docker-ip-address-when-i-run-mongdb-image"
+		"title": "htaccess - RewriteRules declared causing 404 errors",
+		"url": "/questions/68564684/htaccess-rewriterules-declared-causing-404-errors"
 	},
 	{
-		"title": "My PHP MySQL statement does not stop running",
-		"url": "/questions/68560555/my-php-mysql-statement-does-not-stop-running"
+		"title": "How to extract number before a symbol in C++",
+		"url": "/questions/68564683/how-to-extract-number-before-a-symbol-in-c"
 	},
 	{
-		"title": "A script managed by poetry seems to be using the \u201cwrong version\u201d",
-		"url": "/questions/68560554/a-script-managed-by-poetry-seems-to-be-using-the-wrong-version"
+		"title": "Get the previous external URI in nuxt.js",
+		"url": "/questions/68564682/get-the-previous-external-uri-in-nuxt-js"
 	},
 	{
-		"title": "How to avoid blocking call within Spring Webflux MessageSource load bundle",
-		"url": "/questions/68560553/how-to-avoid-blocking-call-within-spring-webflux-messagesource-load-bundle"
+		"title": "Expression.Error: We cannot apply operator & to types Number and Number",
+		"url": "/questions/68564678/expression-error-we-cannot-apply-operator-to-types-number-and-number"
 	},
 	{
-		"title": "KG link prediction models",
-		"url": "/questions/68560548/kg-link-prediction-models"
+		"title": "Convert Uncontrolled Components from : Class extends to Functional Components?",
+		"url": "/questions/68564675/convert-uncontrolled-components-from-class-extends-to-functional-components"
 	},
 	{
-		"title": "SSRS summing rows with the same value",
-		"url": "/questions/68560547/ssrs-summing-rows-with-the-same-value"
+		"title": "RShiny: Display label associated with scatter plot point on hover",
+		"url": "/questions/68564674/rshiny-display-label-associated-with-scatter-plot-point-on-hover"
 	},
 	{
-		"title": "Umlauts in the bibliography file of LaTeX",
-		"url": "/questions/68560546/umlauts-in-the-bibliography-file-of-latex"
+		"title": "Update elements within ArrayList",
+		"url": "/questions/68564671/update-elements-within-arraylist"
 	},
 	{
-		"title": "Angular v12 PrimeNg MessageService is not showing popup message",
-		"url": "/questions/68560545/angular-v12-primeng-messageservice-is-not-showing-popup-message"
+		"title": "Woocommerce Change Variation Image when only one Variation selected",
+		"url": "/questions/68564670/woocommerce-change-variation-image-when-only-one-variation-selected"
 	},
 	{
-		"title": "How to silence a program's output in command line without sudo access",
-		"url": "/questions/68560541/how-to-silence-a-programs-output-in-command-line-without-sudo-access"
+		"title": "Transform repeated values from a list in one with the number of repetition",
+		"url": "/questions/68564669/transform-repeated-values-from-a-list-in-one-with-the-number-of-repetition"
 	},
 	{
-		"title": "NextJS - should I retrieve all necessary data and do authentication in getServerSideProps?",
-		"url": "/questions/68560539/nextjs-should-i-retrieve-all-necessary-data-and-do-authentication-in-getserver"
+		"title": "Turning a linear time for loop into a log(n) time function?",
+		"url": "/questions/68564668/turning-a-linear-time-for-loop-into-a-logn-time-function"
 	},
 	{
-		"title": "i have set up an django server and i need to communicate with my iot device. how can it be done?",
-		"url": "/questions/68560535/i-have-set-up-an-django-server-and-i-need-to-communicate-with-my-iot-device-how"
+		"title": "I ran a logistic regression model in SAS - the conclusion from the OR 95% CI and p-values for a variable don't match",
+		"url": "/questions/68564665/i-ran-a-logistic-regression-model-in-sas-the-conclusion-from-the-or-95-ci-and"
 	},
 	{
-		"title": "I have multiple pages dynamic vue js site created in 2.6.12 version with vuex, vue router and axios and now want to convert it in SSR App",
-		"url": "/questions/68560534/i-have-multiple-pages-dynamic-vue-js-site-created-in-2-6-12-version-with-vuex-v"
+		"title": "Intellij idea lagging",
+		"url": "/questions/68564662/intellij-idea-lagging"
 	},
 	{
-		"title": "An object reference is required for the non-static field, method or property 'Form1.Button' in class",
-		"url": "/questions/68560533/an-object-reference-is-required-for-the-non-static-field-method-or-property-fo"
+		"title": "Dos CMD Batch: Return Value from client, read in server",
+		"url": "/questions/68564660/dos-cmd-batch-return-value-from-client-read-in-server"
 	},
 	{
-		"title": "change value of a database cell in flask",
-		"url": "/questions/68560532/change-value-of-a-database-cell-in-flask"
+		"title": "async and await in Dart",
+		"url": "/questions/68564659/async-and-await-in-dart"
 	},
 	{
-		"title": "Not Update The Home Page With Next.js & Json & Axios",
-		"url": "/questions/68560530/not-update-the-home-page-with-next-js-json-axios"
+		"title": "How to use Redim Preserve in vba",
+		"url": "/questions/68564657/how-to-use-redim-preserve-in-vba"
 	},
 	{
-		"title": "access data of observable collection to another observable collection",
-		"url": "/questions/68560529/access-data-of-observable-collection-to-another-observable-collection"
+		"title": "How to skip a step in spring batch based on job execution decider and continue to anothe step?",
+		"url": "/questions/68564656/how-to-skip-a-step-in-spring-batch-based-on-job-execution-decider-and-continue-t"
 	},
 	{
-		"title": "ERROR - DataEndpointConnectionWorker Error while trying to connect to the endpoint. Cannot borrow client for ssl://localhost:7712",
-		"url": "/questions/68560528/error-dataendpointconnectionworker-error-while-trying-to-connect-to-the-endpoi"
+		"title": "How to align item right of flex?",
+		"url": "/questions/68564654/how-to-align-item-right-of-flex"
 	},
 	{
-		"title": "Regex exclude underscores",
-		"url": "/questions/68560527/regex-exclude-underscores"
+		"title": "tinymce - how to auto-convert text to a bullet when user types '* '",
+		"url": "/questions/68564653/tinymce-how-to-auto-convert-text-to-a-bullet-when-user-types"
 	},
 	{
-		"title": "pyspark, saving options documentation",
-		"url": "/questions/68560526/pyspark-saving-options-documentation"
+		"title": "How can i do async/await in AsyncStorage react native?",
+		"url": "/questions/68564652/how-can-i-do-async-await-in-asyncstorage-react-native"
 	},
 	{
-		"title": "HTML emmet tag configuration",
-		"url": "/questions/68560525/html-emmet-tag-configuration"
+		"title": "Force DecimalField to convert a string into decimal - Django",
+		"url": "/questions/68564651/force-decimalfield-to-convert-a-string-into-decimal-django"
 	},
 	{
-		"title": "Calling differente call execute on if condition - SAS",
-		"url": "/questions/68560524/calling-differente-call-execute-on-if-condition-sas"
+		"title": "How to iterate a table of information with two different arrays made into one",
+		"url": "/questions/68564650/how-to-iterate-a-table-of-information-with-two-different-arrays-made-into-one"
 	},
 	{
-		"title": "I am using this datepicker plugin https://github.com/fengyuanchen/datepicker . I want to specify/highlight some dates. How can I do this?",
-		"url": "/questions/68560523/i-am-using-this-datepicker-plugin-https-github-com-fengyuanchen-datepicker-i"
+		"title": "Adding location based AD groups with Powershell that will prompt for input on what location to put",
+		"url": "/questions/68564648/adding-location-based-ad-groups-with-powershell-that-will-prompt-for-input-on-wh"
 	},
 	{
-		"title": "How To Create Dynamic Header Menu In WordPress?",
-		"url": "/questions/68560519/how-to-create-dynamic-header-menu-in-wordpress"
+		"title": "Not able to hit endpoint when uses SSL for Vue js website index page",
+		"url": "/questions/68564644/not-able-to-hit-endpoint-when-uses-ssl-for-vue-js-website-index-page"
 	},
 	{
-		"title": "Creating a MaterialButton programatically, theme error",
-		"url": "/questions/68560518/creating-a-materialbutton-programatically-theme-error"
+		"title": "How to call a macro with a typedef function pointer in C?",
+		"url": "/questions/68564641/how-to-call-a-macro-with-a-typedef-function-pointer-in-c"
 	},
 	{
-		"title": "What is the relationship between a Node, Worker, Executor, Task and Partition",
-		"url": "/questions/68560515/what-is-the-relationship-between-a-node-worker-executor-task-and-partition"
+		"title": "Print a list of two outputs with no duplicates or similar duos",
+		"url": "/questions/68564640/print-a-list-of-two-outputs-with-no-duplicates-or-similar-duos"
 	},
 	{
-		"title": "Reuse legacy .net 4.7.2 libs with EF 6.4 + Oracle.ManagedDataAccess.EntityFramerowk with a .net core 3.1 app?",
-		"url": "/questions/68560514/reuse-legacy-net-4-7-2-libs-with-ef-6-4-oracle-manageddataaccess-entityframer"
+		"title": "Can I use qmake to build PoDoFo?",
+		"url": "/questions/68564639/can-i-use-qmake-to-build-podofo"
 	},
 	{
-		"title": "Improve Hasura Subscription Performance",
-		"url": "/questions/68560513/improve-hasura-subscription-performance"
+		"title": "Nesting \u201cIF\u201d Statements in Google Sheets to categorize numbers",
+		"url": "/questions/68564634/nesting-if-statements-in-google-sheets-to-categorize-numbers"
 	},
 	{
-		"title": "Remove windows machine from domain via PS",
-		"url": "/questions/68560509/remove-windows-machine-from-domain-via-ps"
+		"title": "Can someone explain me this codes logic?",
+		"url": "/questions/68564633/can-someone-explain-me-this-codes-logic"
 	},
 	{
-		"title": "Processing a file and targeting specific lines",
-		"url": "/questions/68560508/processing-a-file-and-targeting-specific-lines"
+		"title": "how to avoid onchange on api call in vue?",
+		"url": "/questions/68564629/how-to-avoid-onchange-on-api-call-in-vue"
 	},
 	{
-		"title": "Rails radio_buttons multiple selection for same attribute, is it possible?",
-		"url": "/questions/68560507/rails-radio-buttons-multiple-selection-for-same-attribute-is-it-possible"
+		"title": "Custom clustering for markers at the same position",
+		"url": "/questions/68564627/custom-clustering-for-markers-at-the-same-position"
 	},
 	{
-		"title": "R markdown issue says data frame execution halted",
-		"url": "/questions/68560506/r-markdown-issue-says-data-frame-execution-halted"
+		"title": "How to prevent duplicate emails in google sheets",
+		"url": "/questions/68564625/how-to-prevent-duplicate-emails-in-google-sheets"
 	},
 	{
-		"title": "Stuck at Download okhttp-4.9.pom",
-		"url": "/questions/68560505/stuck-at-download-okhttp-4-9-pom"
+		"title": "How to customize google form in 2021?",
+		"url": "/questions/68564624/how-to-customize-google-form-in-2021"
 	},
 	{
-		"title": "An attempt at understanding what ECMAScript-6 Function.prototype.bind() actually does",
-		"url": "/questions/68560498/an-attempt-at-understanding-what-ecmascript-6-function-prototype-bind-actually"
+		"title": "I tried to solve delayed differential equation and ordinary differential equation based model in python, but encountered several errors",
+		"url": "/questions/68564623/i-tried-to-solve-delayed-differential-equation-and-ordinary-differential-equatio"
 	},
 	{
-		"title": "Python can't find installed module, but pip can",
-		"url": "/questions/68560496/python-cant-find-installed-module-but-pip-can"
+		"title": "Failed Installation MPDF, Your requirements could not be resolved to an installable set of packages, my php version is 8.0.3",
+		"url": "/questions/68564622/failed-installation-mpdf-your-requirements-could-not-be-resolved-to-an-installa"
 	},
 	{
-		"title": "can not open XML file with a bigger size on eclipse IDE",
-		"url": "/questions/68560495/can-not-open-xml-file-with-a-bigger-size-on-eclipse-ide"
+		"title": "How to implement T-SQL table variable in Python",
+		"url": "/questions/68564621/how-to-implement-t-sql-table-variable-in-python"
 	},
 	{
-		"title": "How to use dask BlockTransformer with custom function?",
-		"url": "/questions/68560492/how-to-use-dask-blocktransformer-with-custom-function"
+		"title": "Unable to get higher accuracy using Data augmentation for CIFAR 10",
+		"url": "/questions/68564620/unable-to-get-higher-accuracy-using-data-augmentation-for-cifar-10"
 	},
 	{
-		"title": "How to initialise a map of maps",
-		"url": "/questions/68560491/how-to-initialise-a-map-of-maps"
+		"title": "Variables not found in the graph for \u201cconvert_variables_to_constants\u201d",
+		"url": "/questions/68564618/variables-not-found-in-the-graph-for-convert-variables-to-constants"
 	},
 	{
-		"title": "Matching normal text font with font in math mode in Matplotlib",
-		"url": "/questions/68560490/matching-normal-text-font-with-font-in-math-mode-in-matplotlib"
+		"title": "How to use NumPy+MKL with Poetry?",
+		"url": "/questions/68564617/how-to-use-numpymkl-with-poetry"
 	},
 	{
-		"title": "How I count ul li inside word. and if li inside word is 0 then do not show back ground image",
-		"url": "/questions/68560489/how-i-count-ul-li-inside-word-and-if-li-inside-word-is-0-then-do-not-show-back"
+		"title": "Could you topologically sort a complete acyclic directed graph through classical sorting algorithms like quicksort?",
+		"url": "/questions/68564616/could-you-topologically-sort-a-complete-acyclic-directed-graph-through-classical"
 	},
 	{
-		"title": "Postman OAuth1.0a Signature Different",
-		"url": "/questions/68560486/postman-oauth1-0a-signature-different"
+		"title": "How can I display my product variations separately in the shopping cart template? Issues writing my Django add_to_cart view",
+		"url": "/questions/68564615/how-can-i-display-my-product-variations-separately-in-the-shopping-cart-template"
 	},
 	{
-		"title": "How can I disable spellcheck in CKEditor?",
-		"url": "/questions/68560485/how-can-i-disable-spellcheck-in-ckeditor"
+		"title": "Use BytesIO object as a file path",
+		"url": "/questions/68564609/use-bytesio-object-as-a-file-path"
 	},
 	{
-		"title": "\u201cPredicate NodeAffinity failed\u201d",
-		"url": "/questions/68560484/predicate-nodeaffinity-failed"
+		"title": "Traffic Shaping for IoT devices",
+		"url": "/questions/68564607/traffic-shaping-for-iot-devices"
 	},
 	{
-		"title": "Add \u201crel\u201d-attribute to img tag in TinyMCE 5 editor",
-		"url": "/questions/68560480/add-rel-attribute-to-img-tag-in-tinymce-5-editor"
+		"title": "com.google.gson.JsonSyntaxException when parsing JSON to Object using Gson",
+		"url": "/questions/68564605/com-google-gson-jsonsyntaxexception-when-parsing-json-to-object-using-gson"
 	},
 	{
-		"title": "How to convert current timestamp in timeago in codeigneiter",
-		"url": "/questions/68560479/how-to-convert-current-timestamp-in-timeago-in-codeigneiter"
+		"title": "Grouped bar graphs with numerical values in python",
+		"url": "/questions/68564604/grouped-bar-graphs-with-numerical-values-in-python"
 	},
 	{
-		"title": "Angular - Get Boolean Value from a Observable Service inside the CanActivate",
-		"url": "/questions/68560472/angular-get-boolean-value-from-a-observable-service-inside-the-canactivate"
+		"title": "Why is bash terminal cutting off characters from printf and echo? [duplicate]",
+		"url": "/questions/68564602/why-is-bash-terminal-cutting-off-characters-from-printf-and-echo"
 	},
 	{
-		"title": "I want to send a message to a specific channel when my discord.py bot enables",
-		"url": "/questions/68560471/i-want-to-send-a-message-to-a-specific-channel-when-my-discord-py-bot-enables"
+		"title": "ImagePipelineFactory was not initialized - Android Studio",
+		"url": "/questions/68564601/imagepipelinefactory-was-not-initialized-android-studio"
 	},
-	{ "title": "Add OR in WHERE", "url": "/questions/68560470/add-or-in-where" }
+	{
+		"title": "java not printing in 2 classes?",
+		"url": "/questions/68564599/java-not-printing-in-2-classes"
+	}
 ]
