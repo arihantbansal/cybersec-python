@@ -16,7 +16,7 @@ r = requests.post("http://testphp.vulnweb.com/search.php?test=query",
 # print(r.text)
 
 if payload.lower() in r.text.lower():
-  print("/search.php is vulnerable")
+  print("/search.php is vulnerable to XSS")
 
 
 r = requests.post("http://testphp.vulnweb.com/guestbook.php",
