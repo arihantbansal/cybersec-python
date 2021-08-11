@@ -1,4 +1,4 @@
-from pprint import pprint
+from tqdm import tqdm
 
 
 def bxor(input, value):
@@ -33,7 +33,7 @@ def get_english_score(input_bytes):
 
 def single_byte_attack(ciphertext):
   potential_msgs = []
-  for possible_key in range(256):
+  for possible_key in tqdm(range(256)):
     msg = bxor(ciphertext, possible_key)
     score = get_english_score(msg)
     msg_data = {
@@ -45,9 +45,9 @@ def single_byte_attack(ciphertext):
 
   best_score = sorted(
       potential_msgs, key=lambda x: x["score"], reverse=True)
-  # print(best_score)
   # for item in best_score:
   #   print("{}: {}".format(item.title(), best_score[item]))
+
   return best_score[0]
 
 
