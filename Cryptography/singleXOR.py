@@ -59,4 +59,4 @@ ciphertext = bytes.fromhex(input("Enter hex encoded string: "))
 
 ans = single_byte_attack(ciphertext)
 
-print("\n".join("{}\t{}".format(k.title(), str(v)) for k, v in ans.items()))
+print("\n".join(f"{k.title()}\t{v}" for k, v in ans.items()))
