@@ -1,4 +1,4 @@
-from binascii import unhexlify
+from pprint import pprint
 
 
 def bxor(input, value):
@@ -10,14 +10,14 @@ def bxor(input, value):
 
 
 def get_english_score(input_bytes):
-  """Compares each input byte to a character frequency 
+  """Compares each input byte to a character frequency
   chart and returns the score of a message based on the
   relative frequency the characters occur in the English
   language
   """
 
   # From https://en.wikipedia.org/wiki/Letter_frequency
-  # with the exception of ' ', which has been estimated.
+  # with the exception of ' ', which I found on an archived webpage.
   character_frequencies = {
       'a': .08167, 'b': .01492, 'c': .02782, 'd': .04253,
       'e': .12702, 'f': .02228, 'g': .02015, 'h': .06094,
@@ -31,7 +31,32 @@ def get_english_score(input_bytes):
   return sum([character_frequencies.get(chr(byte), 0) for byte in input_bytes.lower()])
 
 
-ciphertext = unhexlify(input("Enter hex encoded string: "))
+def single_byte_attack(ciphertext):
+  potential_msgs = []
+  for possible_key in range(256):
+    msg = bxor(ciphertext, possible_key)
+    score = get_english_score(msg)
+    msg_data = {
+        "message": msg,
+        "score": score,
+        "key": possible_key
+    }
+    potential_msgs.append(msg_data)
 
-for i in range(256):
-  print(bxor(ciphertext, i), i)
+  best_score = sorted(
+      potential_msgs, key=lambda x: x["score"], reverse=True)
+  # print(best_score)
+  # for item in best_score:
+  #   print("{}: {}".format(item.title(), best_score[item]))
+  return best_score[0]
+
+
+ciphertext = bytes.fromhex(input("Enter hex encoded string: "))
+
+# Dirty implementation to check for the answer
+# for i in range(256):
+#   print(bxor(ciphertext, i), i)
+
+ans = single_byte_attack(ciphertext)
+
+print("\n".join("{}\t{}".format(k.title(), str(v)) for k, v in ans.items()))
