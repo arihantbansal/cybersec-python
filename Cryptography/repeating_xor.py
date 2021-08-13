@@ -1,5 +1,5 @@
 from tqdm import tqdm  # For progress bar
-from binascii import unhexlify, hexlify
+from binascii import hexlify
 
 
 def encode_xor(msg, key):
